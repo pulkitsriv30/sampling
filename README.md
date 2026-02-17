@@ -55,3 +55,7 @@ After execution, the script will:
 *   **Balancing**: `SMOTE` is used to oversample the minority class to achieve a 50-50 balance.
 *   **Sample Size**: calculated using Cochran's formula with a 95% confidence level and 5% margin of error.
 *   **Evaluation**: Models are trained on the generated samples and tested on a hold-out set (20% of the balanced data) to ensure fair comparison.
+
+## Google Colab Link
+
+https://colab.research.google.com/drive/1iYi-GcDagv8bsSqeIlkZVEKpB8zGXC9I?usp=sharing
